@@ -1,6 +1,6 @@
 
 # creating dict of the folders with the count of correct anws
-import Prvi_corect_answ_build as answ1, Drugi_corect_answ_foc as answ2, Treci_corect_answ_simple as answ3
+import Prvi_correct_answ_build as answ1, Drugi_correct_answ_foc as answ2, Treci_correct_answ_simple as answ3
 
 result1 = dict(answ1.myresults)
 result2 = dict(answ2.myresults)
