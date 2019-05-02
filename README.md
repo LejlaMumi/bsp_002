@@ -6,4 +6,9 @@ and the main fail is named Corect_answ_join
 #
 #
 #
+@
+#
+#
 
+@correct 
+is not finished yet, contains the code to create a random number generator.
