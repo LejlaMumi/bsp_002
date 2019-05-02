@@ -1,5 +1,4 @@
 from random import randint
-import List_1_build as L1
 
 
 def addID (existingList, numAnswers):
